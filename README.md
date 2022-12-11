@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sophorn-thun
-- 👀 I’m interested in data analytics and business intelligence
+- 👀 I’m interested in coding
 - 🌱 I’m learning continually
 
 <!---
