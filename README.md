@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sophorn</h1>
 <h3 align="center">A passionate frontend developer based in Sweden</h3>
 
-- 🔭 I’m currently working on **Login App**
+- 🔭 I’m currently working on **API Design**
 
 - 🌱 I’m currently learning **Next.js**
 
