@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Sophorn</h1>
 <h3 align="center">A full-stack developer based in Sweden</h3>
 
-- 🔭 I’m currently working on **API Design**
+🔭 I’m currently working on **API Design**
 
-- 🌱 I’m currently learning **Next.js**
+🌱 I’m currently learning **Next.js**
 
-- 👨‍💻 All of my projects are available at [https://sophornthun.netlify.app](https://sophornthun.netlify.app)
+👨‍💻 All of my projects are available at [https://sophornthun.netlify.app](https://sophornthun.netlify.app)
 
-- 💬 Ask me about **HTML5, CSS3, Javascript, and React.js**
-
-- 📫 How to reach me **thunsophorn012@gmail.com**
+📫 How to reach me **thunsophorn012@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
