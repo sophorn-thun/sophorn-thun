@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sophorn</h1>
-<h3 align="center">A full-stack developer based in Sweden</h3>
+<h3 align="center">Web Developer</h3>
 
 🔭 I’m currently working on **API Design**
-
-🌱 I’m currently learning **Next.js**
 
 👨‍💻 All of my projects are available at [https://sophornthun.netlify.app](https://sophornthun.netlify.app)
 
