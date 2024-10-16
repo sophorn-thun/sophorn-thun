@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sophorn</h1>
-<h3 align="center">Data Analyst</h3>
+<h3 align="center">Digital Analyst </h3>
 
 🔭 I’m currently working on **E-Commerce Website Analytics & Customer Behavior Insights**
 
